@@ -1,0 +1,19 @@
+﻿<Window x:Class="Exam_Sp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded_1">
+    <Grid>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Top" Width="243">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="auto" DisplayMemberBinding="{Binding Path=Name}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListBox x:Name="lbx"  HorizontalAlignment="Left" Height="auto" Margin="445,10,0,0" VerticalAlignment="Top" Width="30" SelectionChanged="ListBox_SelectionChanged"/>
+        <Label x:Name="myLabrl" Content="Выбор директории:" HorizontalAlignment="Left" Margin="310,8,0,0" VerticalAlignment="Top"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="310,289,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBox x:Name="myTextBox" HorizontalAlignment="Left" Height="23" Margin="310,244,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

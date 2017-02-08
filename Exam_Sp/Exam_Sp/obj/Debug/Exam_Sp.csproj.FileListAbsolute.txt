@@ -1,0 +1,13 @@
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\bin\Debug\Exam_Sp.exe.config
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\bin\Debug\Exam_Sp.exe
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\bin\Debug\Exam_Sp.pdb
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.csprojResolveAssemblyReference.cache
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\MainWindow.baml
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\MainWindow.g.cs
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\App.g.cs
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp_MarkupCompile.cache
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.g.resources
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.Properties.Resources.resources
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.csproj.GenerateResource.Cache
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.exe
+c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.pdb
