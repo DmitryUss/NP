@@ -78,7 +78,7 @@ namespace Exam_Sp
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Search();
+            Search();//search
             MessageBox.Show(str);
         }
     }

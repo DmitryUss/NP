@@ -11,3 +11,6 @@ c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exa
 c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.csproj.GenerateResource.Cache
 c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.exe
 c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.pdb
+E:\GitHub\Exam_Sp\Exam_Sp\bin\Debug\Exam_Sp.exe.config
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.exe
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.pdb
