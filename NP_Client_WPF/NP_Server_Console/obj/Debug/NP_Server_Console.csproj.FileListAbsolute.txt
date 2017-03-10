@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\bin\Debug\NP_Server_Console.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\bin\Debug\NP_Server_Console.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\bin\Debug\NP_Server_Console.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\obj\Debug\NP_Server_Console.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\obj\Debug\NP_Server_Console.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\obj\Debug\NP_Server_Console.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\bin\Debug\street.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\NP_Server_Console\bin\Debug\street.pdb

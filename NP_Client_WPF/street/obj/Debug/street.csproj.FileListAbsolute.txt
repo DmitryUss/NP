@@ -1,0 +1,5 @@
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\street\bin\Debug\street.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\street\bin\Debug\street.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\street\obj\Debug\street.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\street\obj\Debug\street.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\NP_Client_WPF\street\obj\Debug\street.pdb

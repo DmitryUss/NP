@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP_Client_WPF", "NP_Client_WPF\NP_Client_WPF.csproj", "{7138F11D-9EA7-49BC-95F8-27BA026146D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP_Server_Console", "NP_Server_Console\NP_Server_Console.csproj", "{0CBB1378-5A22-4797-A963-197C4FE44D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "street", "street\street.csproj", "{1A76C706-BD82-4686-AC8E-CDBA03E6FB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7138F11D-9EA7-49BC-95F8-27BA026146D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7138F11D-9EA7-49BC-95F8-27BA026146D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7138F11D-9EA7-49BC-95F8-27BA026146D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7138F11D-9EA7-49BC-95F8-27BA026146D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBB1378-5A22-4797-A963-197C4FE44D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBB1378-5A22-4797-A963-197C4FE44D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBB1378-5A22-4797-A963-197C4FE44D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBB1378-5A22-4797-A963-197C4FE44D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A76C706-BD82-4686-AC8E-CDBA03E6FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A76C706-BD82-4686-AC8E-CDBA03E6FB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A76C706-BD82-4686-AC8E-CDBA03E6FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A76C706-BD82-4686-AC8E-CDBA03E6FB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -14,3 +14,13 @@ c:\users\pst\documents\visual studio 2013\Projects\Exam_Sp\Exam_Sp\obj\Debug\Exa
 E:\GitHub\Exam_Sp\Exam_Sp\bin\Debug\Exam_Sp.exe.config
 E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.exe
 E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.pdb
+E:\GitHub\Exam_Sp\Exam_Sp\bin\Debug\Exam_Sp.exe
+E:\GitHub\Exam_Sp\Exam_Sp\bin\Debug\Exam_Sp.pdb
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.csprojResolveAssemblyReference.cache
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\MainWindow.baml
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\MainWindow.g.cs
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\App.g.cs
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp_MarkupCompile.cache
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.g.resources
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.Properties.Resources.resources
+E:\GitHub\Exam_Sp\Exam_Sp\obj\Debug\Exam_Sp.csproj.GenerateResource.Cache
